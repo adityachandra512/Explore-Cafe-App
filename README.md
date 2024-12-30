@@ -139,8 +139,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 Feel free to reach out for any queries or suggestions:  
 **Email**: adityachandra419@gmail.com  
 **GitHub**: [adityachandra512](https://github.com/adityachandra512)  
-
----
-
-### Note:
-Make sure to add actual screenshots in the `assets` folder and update the links accordingly. This enhances the documentation and gives users a better visual understanding of the app's features.
