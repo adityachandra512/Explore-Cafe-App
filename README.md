@@ -1,6 +1,4 @@
-Here's a more detailed and enriched version of your **Explore Cafe Food App** documentation with sections elaborated and placeholders for images:
 
----
 
 # Explore Cafe Food App 🍔
 
@@ -81,20 +79,24 @@ npm start
 
 Here are some screenshots showcasing the app's main features:
 
-### **Login Screen**  
-![Login Screen](./assets/login-screen.png)  
+### **Home Screen**  
+![Login Screen](./assets/homepage.jpg)  
+Users can log in with email/password or social media accounts.
+
+### **SignIn Page**  
+![Login Screen](./assets/signin.jpg)  
 Users can log in with email/password or social media accounts.
 
 ### **Menu Browsing**  
-![Menu Screen](./assets/menu-screen.png)  
+![Menu Screen](./assets/menu.jpg)  
 Browse through various dishes, categorized for easy access.
 
-### **Cart Management**  
-![Cart Screen](./assets/cart-screen.png)  
-Manage your cart by adding, removing, or adjusting quantities of items.
+### **item Discription**  
+![Cart Screen](./assets/itemdescription.jpg)  
+Showcase the item details like what thing has been used.
 
 ### **Order Tracking**  
-![Order Tracking Screen](./assets/order-tracking.png)  
+![Order Tracking Screen](./assets/orderpage.jpg)  
 Track the status of your orders in real-time.
 
 ---
